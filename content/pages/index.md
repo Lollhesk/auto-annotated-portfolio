@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     backgroundSize: full
     title: ANI<MAL KING/DOM
     subtitle: found out how to level up the design lol
