@@ -42,4 +42,5 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+socialImage: /images/Screenshot 2024-09-09 2.35.17 PM.png
 ---
